@@ -57,15 +57,17 @@ class Model(nn.Module):
 ```
 
 ### Dataset Information
-Include screenshot of the generated data
+generated data
+
+![generated data](https://github.com/user-attachments/assets/b40597fd-b877-491f-a6cb-f41a8344cb36)
 
 ### OUTPUT
 Training Loss Vs Iteration Plot
-Best Fit line plot
-Include your plot here
+![loss](https://github.com/user-attachments/assets/01f3849e-da63-4179-b87f-8daacc0a4e57)
 
-### New Sample Data Prediction
-Include your sample input and output here
+Best Fit line plot
+![best fit](https://github.com/user-attachments/assets/4b856cdd-ba02-4744-a6cc-ab322ec13c2a)
+
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
